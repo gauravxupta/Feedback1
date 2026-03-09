@@ -682,10 +682,11 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 20px; color: rgba(255,255,255,0.6);">
         <p>Enhanced Feedback Analyzer | Built with Streamlit| 
-        <span style="color: #ff6b6b;">❤️</span> Made By Atharva Borhade</p>
+        <span style="color: #ff6b6b;">❤️</span> Made By Gaurav Gupta</p>
     </div>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
+
 
